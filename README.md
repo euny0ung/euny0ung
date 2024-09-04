@@ -11,7 +11,7 @@
     <a href="https://ggubbanglovesherlife.tistory.com/"><img src="http://img.shields.io/badge/tistory-F05032?style=flat-square&logo=tistory"/></a>
     <a href="https://wobbly-overcoat-d0b.notion.site/3-559c34825a1b48ad979199fea5359fe0?pvs=4"><img src="http://img.shields.io/badge/Portfolio-black?style=flat-square&logo=Notion"/></a>
     <br/>
-    <br>🎓 전북대학교 컴퓨터공학부<br>🔎 삼성 청년 SW 아카데미 10기
+    <br>🎓 OO대학교 컴퓨터공학부<br>🔎 삼성 청년 SW 아카데미 10기
   </td>
   <td valign="middle" align="right">
     <a href="https://solved.ac/hdtv0218/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hdtv0218"/></a>
